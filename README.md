@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GabiVictoria&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4" alt="ilustração do status do github" />
-
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=GabiVictoria&cc=f8efd4&tc=783c00&ic=783c00" alt="Status GitHub" />
 ### Olá, meu nome é GabrielleVictória!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Gabrielle%20Vict%C3%B3ria&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" />
